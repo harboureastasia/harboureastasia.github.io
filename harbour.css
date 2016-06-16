@@ -16,11 +16,13 @@ body {
 	height: 15px;
 }
 
-.header {
+.header img{
+	width: 100wh;
 	margin: 0 auto;
 }
 
 .logo {
+
 	margin: 0 auto;
 }
 
