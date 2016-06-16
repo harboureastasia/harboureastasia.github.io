@@ -2,6 +2,7 @@ body {
 	background-image: url("harboureastasia.github.io/Harbor-Cover-1.jpg");
 	height: 100vh;
 	width: auto;
+	margin: 0px;
 }
 
 .blocks img {
@@ -12,5 +13,5 @@ body {
 .footer {
 	background-color: #222;
 	height: 15px;
-	
+
 }
