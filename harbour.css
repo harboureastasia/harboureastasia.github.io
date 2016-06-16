@@ -11,7 +11,19 @@ body {
 }
 
 .footer {
+	clear: both;
 	background-color: #222;
 	height: 15px;
+}
 
+.header {
+	margin: 0 auto;
+}
+
+.logo {
+	margin: 0 auto;
+}
+
+.blocks {
+	margin: 0 auto;
 }
