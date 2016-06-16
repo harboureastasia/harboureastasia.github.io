@@ -1,3 +1,8 @@
 .content {
 	background-image: url("harboureastasia.github.io/Harbor-Cover-1.jpg");
 }
+
+.blocks img {
+	max-height: 50px;
+	width: 100%;
+}
