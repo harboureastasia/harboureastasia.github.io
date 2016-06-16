@@ -1,8 +1,16 @@
-.content {
+body {
 	background-image: url("harboureastasia.github.io/Harbor-Cover-1.jpg");
+	height: 100vh;
+	width: auto;
 }
 
 .blocks img {
 	float: left;
 	max-height: 50px;
+}
+
+.footer {
+	background-color: #222;
+	height: 15px;
+	
 }
